@@ -1,4 +1,4 @@
-# Hi 👋, I'm Breno Polanski
+# Hey, I'm Breno Polanski 👋
 
 [![Twitter Badge](https://img.shields.io/badge/@brenopolanski-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/brenopolanski)](https://twitter.com/brenopolanski) 
 [![Linkedin Badge](https://img.shields.io/badge/Breno%20Polanski-blue?style=flat-square&labelColor=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brenopolanski/)](https://www.linkedin.com/in/brenopolanski/) 
